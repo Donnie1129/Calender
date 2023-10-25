@@ -5,6 +5,8 @@ updates the time and day to allow you to plan your schedule. As time progresses 
 your day. Users have the option to add notes in the calender and save them to local storage so that if the page is refreshed or closed out, their information is still
 saved. I have also added an option for whoever grades this in the javascript section that you can un-comment and change the time as desired so that the page may be checked for functionality. 
 
+Web URL for deployed site: https://donnie1129.github.io/Calender/
+
 ## Your Task
 
 Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am&ndash;5pm) by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
